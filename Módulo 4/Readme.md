@@ -20,3 +20,5 @@ O passo a passo desse desafio está descrito abaixo.
 - Por fim, foram utilizadas algumas ações de limpeza e tratamento de dados dentre elas: remoção de duplicatas e colunas, criação de coluna condicional, entre outras.
 
 Abaixo está o modelo de start schema.
+
+![Start_Schema_Projeto_2](https://github.com/IsadoraLino/Bootcamp_Data_Analytics_com_Power_BI_DIO/blob/main/M%C3%B3dulo%204/Start_Schema_Projeto_2.png)
